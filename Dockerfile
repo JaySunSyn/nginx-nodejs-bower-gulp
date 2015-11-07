@@ -6,7 +6,7 @@
 #
 
 # Pull base image.
-FROM dockerfile/nginx
+FROM nginx
 
 # Install Node.js
 RUN \
